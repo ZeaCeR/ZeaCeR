@@ -6,10 +6,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeaCeR&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<h2><b><i>Hello! I'm Hirusha Adikari 👋</i></b></h2>
-<b><i>💻 Just an Average Kid interested on Computers </i></b>
+<h2><b><i>Hello! I'm ZeaCeR </i></b></h2>
+<b><i>💻 I chose to create a a create an stay anonymous!</i></b>
+<p>You may ask why? I'm new to python and other programming and scripting languages... i had a question and posted i it to Stack Overflow. I was very domotivated by this comment - https://i.imgur.com/SXhNBgj.png i had on my post! and i completely disagree with what he said here.. even though the code is not in a professional way, it does the work fine! ( basically crashes windows ), i just wanted to know something about this and this is what i got! i'll be trying my best to make more and more programs like this! Stick with my profile for more</p>
 
-<li>🐍 Python 🐍 </li>
+<li>🐍 Python 3 🐍 </li>
 
 
 <h2><b><i>🏆 Profile Statistics : </i></b></h2>
